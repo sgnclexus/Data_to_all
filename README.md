@@ -26,6 +26,7 @@
 - [Getting Started](#getting_started)
 - [Authors](#authors)
 - [DS Modulo 1 Basic Examples](M1/M1.md)
+- [DS Modulo 2 Basic findings in CSV](M2/)
 
 ## 🧐 About <a name = "about"></a>
 
