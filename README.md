@@ -36,13 +36,15 @@ Data Engineer looking for new ways to use and interpret data for helping people 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 
-<!-- ### Prerequisites
+### Prerequisites
 
-For this examples you only need basic knowledge in python.
+First of all we need to create a virtual environment. 
+For this examples you only need basic knowledge in python. 
 
 ```
-Give examples
-``` -->
+python3 -m venv venv
+ource venv/bin/activate
+``` 
 
 <!-- ### Installing
 
