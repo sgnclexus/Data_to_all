@@ -27,6 +27,7 @@
 - [Authors](#authors)
 - [DS Modulo 1 Basic Examples](M1/M1.md)
 - [DS Modulo 2 Basic findings in CSV](M2/)
+- [DS Modulo 3 Basic functions to group data](M3/)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -44,7 +45,7 @@ For this examples you only need basic knowledge in python.
 
 ```
 python3 -m venv venv
-ource venv/bin/activate
+source venv/bin/activate
 ``` 
 
 <!-- ### Installing
